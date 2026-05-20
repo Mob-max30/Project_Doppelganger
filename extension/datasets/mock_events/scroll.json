@@ -1,0 +1,11 @@
+{
+  "event": "scroll",
+  "ts": "2026-05-20T12:34:56.789Z",
+  "scroll": {
+    "scroll_y": 2400,
+    "delta_y": 520,
+    "viewport_h": 900,
+    "doc_h": 12000,
+    "velocity": 2.1
+  }
+}
