@@ -1,0 +1,9 @@
+{
+  "event": "navigation_event",
+  "ts": "2026-05-20T12:45:02.781Z",
+  "navigation_event": {
+    "type": "link_click",
+    "transition_from": "google.com",
+    "transition_to": "youtube.com"
+  }
+}
