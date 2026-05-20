@@ -1,0 +1,9 @@
+{
+  "event": "focus_change",
+  "ts": "2026-05-20T12:41:30.117Z",
+  "focus_change": {
+    "scope": "window",
+    "state": "blurred",
+    "cause": "alt_tab"
+  }
+}
