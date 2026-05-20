@@ -1,0 +1,11 @@
+{
+  "event": "typing",
+  "ts": "2026-05-20T12:38:44.128Z",
+  "typing": {
+    "field_role": "editor",
+    "chars_added": 84,
+    "chars_deleted": 12,
+    "duration_ms": 22000,
+    "burst_id": "burst_001"
+  }
+}
