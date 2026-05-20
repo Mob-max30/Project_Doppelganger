@@ -1,0 +1,8 @@
+{
+  "event": "idle_state",
+  "ts": "2026-05-20T12:43:12.551Z",
+  "idle_state": {
+    "idle_ms": 45000,
+    "return_trigger": "mouse_move"
+  }
+}
