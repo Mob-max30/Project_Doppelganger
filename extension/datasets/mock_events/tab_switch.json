@@ -1,0 +1,9 @@
+{
+  "event": "tab_switch",
+  "ts": "2026-05-20T12:40:11.902Z",
+  "tab_switch": {
+    "from_tab_id": 3,
+    "to_tab_id": 7,
+    "reason": "user"
+  }
+}
