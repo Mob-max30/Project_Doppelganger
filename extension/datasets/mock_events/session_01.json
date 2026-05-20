@@ -1,0 +1,54 @@
+[
+  {
+    "event": "navigation_event",
+    "ts": "2026-05-20T12:30:00.000Z",
+    "navigation_event": {
+      "type": "direct_url",
+      "transition_from": "none",
+      "transition_to": "gmail.com"
+    }
+  },
+  {
+    "event": "typing",
+    "ts": "2026-05-20T12:31:12.000Z",
+    "typing": {
+      "field_role": "editor",
+      "chars_added": 42,
+      "chars_deleted": 3,
+      "duration_ms": 12000,
+      "burst_id": "burst_001"
+    }
+  },
+  {
+    "event": "hover",
+    "ts": "2026-05-20T12:32:10.000Z",
+    "hover": {
+      "target": "button",
+      "target_role": "submit",
+      "element_path_hash": "sha256(...)",
+      "duration_ms": 2100,
+      "x": 620,
+      "y": 410
+    }
+  },
+  {
+    "event": "tab_switch",
+    "ts": "2026-05-20T12:33:44.000Z",
+    "tab_switch": {
+      "from_tab_id": 2,
+      "to_tab_id": 5,
+      "reason": "user"
+    }
+  },
+  {
+    "event": "scroll",
+    "ts": "2026-05-20T12:35:15.000Z",
+    "scroll": {
+      "scroll_y": 5200,
+      "delta_y": 860,
+      "viewport_h": 900,
+      "doc_h": 16000,
+      "velocity": 2.8
+    }
+  }
+]
