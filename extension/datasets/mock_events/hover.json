@@ -1,0 +1,12 @@
+{
+  "event": "hover",
+  "ts": "2026-05-20T12:36:10.421Z",
+  "hover": {
+    "target": "button",
+    "target_role": "submit",
+    "element_path_hash": "sha256(...)",
+    "duration_ms": 1450,
+    "x": 512,
+    "y": 288
+  }
+}
